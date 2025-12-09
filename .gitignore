@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+models/
+output/
+input/
+custom_nodes/
+*.pt
+*.safetensors
+*.ckpt
+*.bin
+*.onnx
